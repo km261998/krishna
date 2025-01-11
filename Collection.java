@@ -6,7 +6,7 @@ public class Collection {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-//		int i=10;
+		int i=10;
 //		@SuppressWarnings("removal")
 //		Integer int1= new Integer(i);//wrapping
 //		System.out.print(i);
